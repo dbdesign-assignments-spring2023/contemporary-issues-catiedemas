@@ -1,3 +1,12 @@
-# Contemporary Issues In Data
+# Contemporary Issues In Data: _A comparative analysis of two articles_
+In this document, I will compare **two articles** that cover data related issues from **two different viewpoints**.
 
-Welcome! Your writing assignment will be in this file.  See [the instructions](./instructions.md) for more details.
+## Article 1: 
+In _The Economist's_ [Some countries want central databases for contact-tracing apps](https://www.economist.com/europe/2020/04/30/some-countries-want-central-databases-for-contact-tracing-apps?giftId=24ce8c39-e670-4db9-8450-cac30ae39f69), discusses issues related to covid-19 and data sharing. Google and Apple devised an update to allow individuals to contact trace but not have that data centralized so the information could not be siphoned. Europe, which collected their data in a centralized manner, was upset by this. After becoming angry with the Apple-Google strategy, Germany, Switzerland, Estonia and Austria followed suit because of _interoperability and battery-life issues_ with a centralized system. _The Econmist_ said, "The Apple-Google decentralised protocol is the right choice when it comes to privacy." And that, "the pandemic has highlighted the core role that digital systems play in human life."
+
+This article is highlighting the actions and motives of Silicon Valley to protect their users from the dangers of data sharing. It is putting Apple-Google in a positive light and showcasing their efforts to not have a centralized data system. Similar to the proceeding article, it discusses the dangers of centralized systems, but through a positive lens of what Silicon Valley is doing, not the negative actions of theirs.
+
+## Article 2:
+In _The New York Times_ [Everyone Wants Your Email Address. Think Twice Before Sharing It.](https://www.nytimes.com/2023/01/25/technology/personaltech/email-address-digital-tracking.html), Brian X. Chen discusses how our emails have become a digital breadcrumb. Brain explains that, "your email is important not just for contacting you. It acts as a digital bread crumb for companies to link your activity across sites and apps to serve you relevant ads." For decades, digital advertisers have relied on these invisible trackers to serve us targeted ads and pieces of information. 
+
+An email address can be linked to other data such as your educational background or what car you drive (some examples highlighted in the article). There is a regression in privacy because after all, the internet isn't free. This article is discussing the dangers of a more centralized approach from a different angle; rather than public health, Brian focuses on commericial benefits. Sharing your information, something as benign as your email, unlocks many doors for Silicon Valley to use to their benefit.
